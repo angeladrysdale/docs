@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#8796DD",
+    "light": "#17A2B8",
+    "dark": "#00291F"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -118,5 +118,8 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "background": {
+    "image": "/images/vendors.png"
   }
 }
